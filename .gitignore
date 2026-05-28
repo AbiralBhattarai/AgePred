@@ -14,3 +14,7 @@ data/*.jpg
 data/*.png
 results/*.jpg
 data/test/
+
+.env
+
+data/*
